@@ -1,0 +1,11 @@
+*.class
+readme.html
+README.html
+
+*.sw[po]
+Thumbs.db
+*~
+Desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
